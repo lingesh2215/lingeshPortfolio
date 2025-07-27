@@ -20,12 +20,6 @@ A clean, modern, and responsive developer portfolio built with **React.js** to s
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot 1](./screenshots/home.png)  
-*(Add your own screenshots in a `screenshots/` folder)*
-
----
 
 ## 🛠️ Tech Stack
 

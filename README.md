@@ -4,7 +4,7 @@ A clean, modern, and responsive developer portfolio built with **React.js** to s
 
 ## 🖥️ Live Demo
 
-👉 [View Portfolio](https://your-username.github.io/masterPortfolio/)  
+👉 [View Portfolio](https://github.com/lingesh2215/lingeshPortfolio)  
 > Replace with your actual GitHub Pages link
 
 ---

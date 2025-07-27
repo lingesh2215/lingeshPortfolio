@@ -15,7 +15,6 @@ A clean, modern, and responsive developer portfolio built with **React.js** to s
 - 🎯 Fully responsive design
 - 📄 Resume download option
 - 💼 Project showcase with links
-- 🌙 Light & Dark theme toggle *(optional)*
 - 📬 Contact form (email or mailto integration)
 - 🌐 Deployed with GitHub Pages
 

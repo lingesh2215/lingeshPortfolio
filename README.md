@@ -63,3 +63,11 @@ npm start
 
 Build for Production
 npm run build
+
+🙋‍♂️ About Me
+Hi! I'm Lingesh, a passionate Frontend Developer focused on building user-friendly interfaces using React.js.
+📫 lingeshj15@gmail.com
+🔗 LinkedIn
+🔗 GitHub
+
+
